@@ -22,7 +22,8 @@
     "url": "http://github.com/hipchat/hubot-hipchat.git"
   },
   "dependencies": {
-    "wobot": "0.8.0"
+    "wobot": "0.8.0",
+    "hubot": "*"
   },
   "license": "MIT",
   "main": "./src/hipchat"
