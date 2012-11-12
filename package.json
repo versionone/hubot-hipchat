@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "wobot": "0.8.0",
-    "hubot": "*"
+    "hubot": "git://github.com/versionone/hubot.git"
   },
   "license": "MIT",
   "main": "./src/hipchat"
